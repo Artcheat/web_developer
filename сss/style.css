@@ -1,0 +1,217 @@
+/* Здесь будут храниться стили нашего сайта */
+a{
+	text-decoration:none;
+}
+*{
+	box-sizing:border-box;
+}
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+header{
+	background-color: #3a7dfd;
+	padding-top:59px;
+	padding-bottom:22px;
+    
+}
+
+header h2{
+	   font-weight:700;
+       color:white;
+       font-size:48px;
+       margin-top:20px;
+       margin-bottom:20px;
+        
+}
+header p{
+	color: #ffffff;
+	font-weight: 400;
+	margin-top:20px;
+	 
+}
+header small{
+	display:block;
+	text-align:center;
+	padding-right:230px;
+color: #ffffff;
+font-family:"Roboto" sans-serif;
+font-size: 12px;
+font-weight: 400;
+
+	
+}
+span{
+	color: #072b6f;
+    
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.header-full{
+	margin-top:59px;
+}
+.header-title{
+	color:#fff;
+	font-weight:700;
+	 }
+.header-text{
+	margin-top:108px;
+	
+}
+.header-btn{
+
+	width:210px;
+    height:50px;
+    box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
+    border-radius: 25px;
+    background-color: #ffffff;
+    transition:0.2s;
+}
+.header-btn:hover{
+	background-color:#3a7dfd;
+}
+
+
+
+
+
+
+
+section{ 
+	padding-top:44px;
+	padding-bottom:71px;
+	background-color:#dddddd;
+}
+.portfolio-block{
+	background-color:white;
+	padding-top:29px;
+	padding-bottom:73px;
+
+}
+.portfolio-title{
+	color: #072b6f;
+	font-weight: 700;
+    text-transform: uppercase;
+	
+
+}
+.portfolio-subtitle{
+	color:black;	
+	font-size: 14px;
+	color: #7bb9ff;
+	
+}
+.portfolio-subtitle, .portfolio-title {
+	text-align: center;
+}
+
+section h3{
+	text-transform:uppercase;
+	color: #072b6f;
+	font-weight: 700;
+	margin-top:20px;
+}
+.h-title{
+	margin-bottom:43px;
+}
+.text-row{
+	color: #8f8f8f;
+font-size: 14px;
+font-weight: 400;
+}
+.portfolio-col{
+	padding-left:51px;
+	padding-right:0;
+}
+.portfolio-coll{
+	padding-left:30px;
+	padding-right:49px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+
+
+
+footer{
+	background-color:#3a7dfd;
+	padding-left: 10%;	
+}
+
+footer h4{
+	margin-bottom:0;
+}
+.footer-1{
+	display:inline-block;
+}
+.footer-title{
+		   font-weight:700;
+           color:white;
+           font-size:24px;
+
+
+}
+.footer-subtitle{	
+	color: #deedfe;
+	 font-size: 18px;
+    font-weight: 400;
+    
+}
+.footer-sct{
+	color: #deedfe;
+	font-size: 18px;
+    font-weight: 400;
+    line-height: 39.81px;
+    text-align:center;
+
+    margin-bottom:10px;
+}
+.social-block{
+	display:inline-block;
+}
+.social{
+	text-align: center;
+}
+.footer-btn-main{
+	display:block;
+}
+.footer-btn
+{
+width: 165px;
+height: 60px;
+background-color:transparent;
+border-radius: 24px;
+border: 1px solid #ffffff;
+
+
+}
+
+.footer-text
+{   padding-top:10px;
+	color: #deedfe;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 39.8px;
+    margin-bottom:5px;
+
+}
+.footer-btn-text{
+	color: #deedfe;
+	font-size: 18px;
+	font-weight: 400;
+}
+.footer-btn-main{
+	display:inline;
+}
